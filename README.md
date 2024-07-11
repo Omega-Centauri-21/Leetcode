@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <a href="http://thismypc.com/">
+    <a href="https://leetcode.com/">
         <img src="https://blogs-hots-files.s3.amazonaws.com/images/2021/07/leetcode_button_icon_151892.png" crossorigin>
     </a>
 </div>
